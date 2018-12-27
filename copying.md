@@ -21,7 +21,7 @@ _the openage authors_ are:
 | Jimmy Berry                 | boombatower                 | jimmy à boombatower dawt com                      |
 | João Roque                  | joaoroque                   | joaoroque à gmail dawt com                        |
 | Julius Michaelis            | jcaesar                     | gitter à liftm dawt de                            |
-| Katharina Bogad             | delirium, masterofjellyfish | bogad à cs dawt tum dawt edu                      |
+| Katharina Bogad             | mistressofjellyfish         | delirium à hacked dawt xyz                        |
 | Oliver Fawcett-Griffiths    | ollyfg                      | olly à ollyfg dawt com                            |
 | Ross Murray                 | rossmurray                  | rm à egoorb dawt com                              |
 | Alexandre Arpin             | AlexandreArpin              | arpin dawt alexandre à gmail dawt com             |
@@ -114,6 +114,9 @@ _the openage authors_ are:
 | Benedikt Freisen            | roybaer                     | b dawt freisen à gmx dawt net                     |
 | Finn Günther                | Kawzeg                      | kawzeg à gmail dawt com                           |
 | Akshit Sharma               | akshit-sharma               | akshit9sharma à gmail dawt com                    |
+| Jacek Wielemborek           | d33tah                      | d33tah à gmail dawt com                           |
+| Charles Offenbacher         | coffenbacher                | charles.offenbacher à gmail dawt com              |
+| Ilia Vladimirskiy           | ivvory                      | ivv.evol à gmail dawt com                         |
 
 If you're a first-time committer, add yourself to the above list. This is not
 just for legal reasons, but also to keep an overview of all those nicknames.
